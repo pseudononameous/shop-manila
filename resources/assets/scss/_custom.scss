@@ -1,0 +1,26 @@
+.btn-primary {
+    font-weight: 700;
+    color: #fff;
+    background: #3cb878;
+    &:hover,
+    &:focus {
+        background: #2b925d;
+        color: #fff;
+    }
+}
+
+.btn-secondary {
+    font-weight: 700;
+    color: #fff;
+    background: #0063e9;
+    &:hover,
+    &:focus {
+        background: #0047a8;
+        color: #fff;
+    }
+}
+.btn {
+    i {
+        margin-right: 8px;
+    }
+}
